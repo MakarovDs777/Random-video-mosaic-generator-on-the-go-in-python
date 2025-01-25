@@ -11,3 +11,8 @@ https://github.com/user-attachments/assets/78c0338c-783d-4a01-b965-71291e5ad409
 
 https://github.com/user-attachments/assets/704bc9dd-ad25-4483-b438-b1c12b1dbdc2
 
+# Version 3
+
+Но мне нужно больше 1 итерации плиткорезок что-бы прям совсем мелкие кусочки были... 
+
+https://github.com/user-attachments/assets/e36cc23f-a3ea-4b3a-8720-0348debd85de
