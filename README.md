@@ -16,3 +16,10 @@ https://github.com/user-attachments/assets/704bc9dd-ad25-4483-b438-b1c12b1dbdc2
 Но мне нужно больше 1 итерации плиткорезок что-бы прям совсем мелкие кусочки были... 
 
 https://github.com/user-attachments/assets/e36cc23f-a3ea-4b3a-8720-0348debd85de
+
+# Version 4
+
+В четвертой версии программы я добавил возможность выбора множества различных видео, и все видео разрезаются на плитки, и воедино объеденяются в одно случайное вижео, и то же самое со звуком.
+
+
+https://github.com/user-attachments/assets/c2be6bea-c8fd-4e9b-aef1-1b07ed779de9
