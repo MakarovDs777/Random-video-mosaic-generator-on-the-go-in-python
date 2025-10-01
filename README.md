@@ -30,3 +30,6 @@ https://github.com/user-attachments/assets/c2be6bea-c8fd-4e9b-aef1-1b07ed779de9
 
 https://github.com/user-attachments/assets/db84d3db-ef00-4a31-9fc6-054343798150
 
+# Version 0
+
+Теперь нужно сделать возможность пермещения по мозаикам с помощью клавиш qweasd. Но код ещё не доработан.
